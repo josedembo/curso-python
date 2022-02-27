@@ -33,4 +33,4 @@ if __name__ == "__main__":
     # actualizar_arquivo("Minha segunda linha")
     # ler_arquivo("texto.txt")
     # copiar_arquivo("texto.txt", "copia")
-    mover_arquivo("notas/notas_alunos.txt", ".")
+    mover_arquivo("notas_alunos.txt", "notas")
